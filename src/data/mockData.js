@@ -405,9 +405,9 @@ export const mockPieData = [
     color: "hsl(104, 70%, 50%)",
   },
   {
-    id: "make",
-    label: "make",
-    value: 170,
+    id: "JavaScript",
+    label: "JavaScript",
+    value: 250,
     color: "hsl(162, 70%, 50%)",
   },
   {
