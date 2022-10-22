@@ -165,6 +165,7 @@ const Dashboard = () => {
             <LineChart isDashboard={true} />
           </Box>
         </Box>
+        {/*Recent Transcations*/}
         <Box
           gridColumn="span 4"
           gridRow="span 2"
